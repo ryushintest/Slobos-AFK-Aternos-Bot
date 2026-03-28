@@ -9,7 +9,7 @@
     "ip": "sumasapakngbisaya.aternos.me",
     "port": 20850,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
