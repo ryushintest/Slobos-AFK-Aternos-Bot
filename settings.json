@@ -1,7 +1,7 @@
 {
-  "name": "reall",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "tanginamoo",
+    "username": "AFK000",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "",
-        "",
-        ""
+        "I",
+        "S",
+        "I!"
       ]
     },
     "chat-log": true,
